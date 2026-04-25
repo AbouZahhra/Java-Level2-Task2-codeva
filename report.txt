@@ -1,0 +1,5 @@
+=== File Report ===
+Input : input.txt
+Lines : 3
+Words : 7
+Chars : 37
